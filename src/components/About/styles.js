@@ -7,8 +7,8 @@ export const Container = styled.div`
   flex-direction: column;
 
   .seahorse {
-    width: 100px;
-    height: 150px;
+    width: 80px;
+    height: 138px;
   }
 
   p{
@@ -16,16 +16,10 @@ export const Container = styled.div`
     text-align: center;
     margin-top: 16px;
   }
-
-
 `;
-
-
 
 export const Title = styled.div`
  display: flex;
-  
-  
 `;
 
 export const SubTitle = styled.div`
@@ -34,8 +28,6 @@ export const SubTitle = styled.div`
     font-size: 3em;
     text-align: center;
   }
-  
-  
 `;
 
 

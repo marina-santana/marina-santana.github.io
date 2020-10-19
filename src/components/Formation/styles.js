@@ -7,7 +7,7 @@ export const Container = styled.div`
   flex-direction: column;
 
   .starfish {
-    width: 100px;
+    width: 133px;
     height: 100px;
   }
 
@@ -20,8 +20,6 @@ export const Container = styled.div`
   .circle-markle{
     margin-top: 32px;
   }
-
-
 `;
 
 

@@ -12,27 +12,30 @@ export const Container = styled.div`
     margin-top: 8px;
   }
 
-  .fish {
-    width: 128px;
-    height: 99px;
+  .seaweed {
+    width: 100px;
+    height: 120px;
   }
 `;
 
 export const ContainerList = styled.div`
   display: flex;
+  width: 850px;
   justify-content: space-between;
   margin-top: 16px;
 `;
 
 export const List = styled.div`
   display: flex;
-  flex-direction: column;
-  padding: 0 64px;
   align-items: center;
-  justify-content: center;
+  flex-direction: column;
+  
+  a{
+    position: absolute;
+    margin-top: 140px;
+    text-transform: uppercase;
+  }
 `;
-
-
 
 
 

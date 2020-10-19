@@ -1,8 +1,11 @@
 import React from 'react';
 import About from '../components/About';
+import Footer from '../components/Footer';
 import Formation from '../components/Formation';
 import Header from '../components/Header';
+import Projects from '../components/Projects';
 import Skills from '../components/Skills';
+import SocialMedia from '../components/SocialMedia';
 import { Container } from './styles';
 
 function Home() {
@@ -12,6 +15,9 @@ function Home() {
             <About />
             <Formation />
             <Skills />
+            <Projects />
+            <SocialMedia />
+            <Footer />
         </Container>
     );
 }

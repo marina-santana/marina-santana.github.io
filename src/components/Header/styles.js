@@ -47,7 +47,7 @@ export const Image = styled.div`
     right: -10px;
     border-radius: 50%;
     border: 10px dashed #C1B6FB;
-}
+  }
 `;
 
 

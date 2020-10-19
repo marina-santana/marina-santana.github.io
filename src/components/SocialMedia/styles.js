@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const Container = styled.div`
-  margin-top: 64px;
+  margin: 64px 0 128px;
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -12,27 +12,30 @@ export const Container = styled.div`
     margin-top: 8px;
   }
 
-  .fish {
-    width: 128px;
-    height: 99px;
+  .oyster {
+    width: 134px;
+    height: 106px;
   }
 `;
 
 export const ContainerList = styled.div`
   display: flex;
+  width: 500px;
   justify-content: space-between;
   margin-top: 16px;
 `;
 
 export const List = styled.div`
   display: flex;
-  flex-direction: column;
-  padding: 0 64px;
   align-items: center;
-  justify-content: center;
+  flex-direction: column;
+  
+  a{
+    position: absolute;
+    margin-top: 140px;
+    text-transform: uppercase;
+  }
 `;
-
-
 
 
 

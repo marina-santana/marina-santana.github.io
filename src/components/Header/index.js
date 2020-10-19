@@ -11,7 +11,6 @@ function Header() {
             <img src={imgWaves} alt="ondas" />
             <img src={imgStars} alt="estrelas" />
         </Container>
-
     );
 }
 

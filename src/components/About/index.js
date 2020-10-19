@@ -15,7 +15,6 @@ function About() {
             </Title>
             <p>Olá, eu sou a Marina, Desenvolvedora Full Stack ,  gosto de filmes e de viajar com meus amigos.</p>
         </Container>
-
     );
 }
 

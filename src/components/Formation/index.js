@@ -25,7 +25,6 @@ function Formation() {
             <p>Universidade nove de julho</p>
             <p>Ciências da computação (conclusão prevista para dez/2023)</p>
         </Container>
-
     );
 }
 
