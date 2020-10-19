@@ -16,6 +16,10 @@ export const Container = styled.div`
     width: 100px;
     height: 120px;
   }
+
+  @media (max-width: 600px){
+    width: calc(100vw - 16px);
+  }
 `;
 
 export const ContainerList = styled.div`
@@ -23,6 +27,11 @@ export const ContainerList = styled.div`
   width: 850px;
   justify-content: space-between;
   margin-top: 16px;
+
+  @media (max-width: 600px){
+    flex-direction: column;
+    margin-top: 0;
+  }
 `;
 
 export const List = styled.div`
@@ -34,6 +43,10 @@ export const List = styled.div`
     position: absolute;
     margin-top: 140px;
     text-transform: uppercase;
+  }
+
+  @media (max-width: 600px){
+    margin-top: 16px;
   }
 `;
 

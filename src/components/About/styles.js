@@ -16,10 +16,18 @@ export const Container = styled.div`
     text-align: center;
     margin-top: 16px;
   }
+
+  @media (max-width: 600px){
+    width: calc(100vw - 16px);
+  }
 `;
 
 export const Title = styled.div`
  display: flex;
+
+ @media (max-width: 600px){
+    width: calc(100vw - 16px);
+  }
 `;
 
 export const SubTitle = styled.div`

@@ -16,12 +16,21 @@ export const Container = styled.div`
     width: 128px;
     height: 99px;
   }
+
+  @media (max-width: 600px){
+    width: calc(100vw - 16px);
+  }
 `;
 
 export const ContainerList = styled.div`
   display: flex;
   justify-content: space-between;
   margin-top: 16px;
+
+  @media (max-width: 600px){
+    flex-direction: column;
+    margin-top: 0;
+  }
 `;
 
 export const List = styled.div`
@@ -30,6 +39,10 @@ export const List = styled.div`
   padding: 0 64px;
   align-items: center;
   justify-content: center;
+
+  @media (max-width: 600px){
+    margin-top: 32px;
+  }
 `;
 
 

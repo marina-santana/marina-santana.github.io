@@ -22,6 +22,10 @@ export const Container = styled.div`
   img + img {
     margin-top: 8px;
   }
+
+  @media (max-width: 600px){
+    width: calc(100vw - 16px);
+  }
 `;
 
 

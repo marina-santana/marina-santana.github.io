@@ -18,13 +18,16 @@ export const Container = styled.div`
     font-size: 3em;
     color: #AD9EFA;
     margin-top: 500px;
+    text-align: center;
   }
 
   img + img {
     margin-top: 8px;
   }
 
-
+  @media (max-width: 600px){
+    width: calc(100vw - 16px);
+  }
 `;
 
 export const Image = styled.div`

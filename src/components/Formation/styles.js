@@ -20,6 +20,10 @@ export const Container = styled.div`
   .circle-markle{
     margin-top: 32px;
   }
+
+  @media (max-width: 600px){
+    width: calc(100vw - 16px);
+  }
 `;
 
 
