@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/marina-santana/marina-santana.io/static/js/main.de3b447b.chunk.js",
+    "main.js.map": "/marina-santana/marina-santana.io/static/js/main.de3b447b.chunk.js.map",
+    "runtime-main.js": "/marina-santana/marina-santana.io/static/js/runtime-main.99a12112.js",
+    "runtime-main.js.map": "/marina-santana/marina-santana.io/static/js/runtime-main.99a12112.js.map",
+    "static/js/2.af5a29cb.chunk.js": "/marina-santana/marina-santana.io/static/js/2.af5a29cb.chunk.js",
+    "static/js/2.af5a29cb.chunk.js.map": "/marina-santana/marina-santana.io/static/js/2.af5a29cb.chunk.js.map",
+    "index.html": "/marina-santana/marina-santana.io/index.html",
+    "precache-manifest.d4804c36cf0c2aa20855f7fdf98ef919.js": "/marina-santana/marina-santana.io/precache-manifest.d4804c36cf0c2aa20855f7fdf98ef919.js",
+    "service-worker.js": "/marina-santana/marina-santana.io/service-worker.js",
+    "static/js/2.af5a29cb.chunk.js.LICENSE.txt": "/marina-santana/marina-santana.io/static/js/2.af5a29cb.chunk.js.LICENSE.txt",
+    "static/media/fish.png": "/marina-santana/marina-santana.io/static/media/fish.e6ca75c5.png",
+    "static/media/footer.png": "/marina-santana/marina-santana.io/static/media/footer.8bd43bac.png",
+    "static/media/header.png": "/marina-santana/marina-santana.io/static/media/header.e3381d2d.png",
+    "static/media/marina.jpg": "/marina-santana/marina-santana.io/static/media/marina.81fdbd45.jpg",
+    "static/media/oyster.png": "/marina-santana/marina-santana.io/static/media/oyster.ac31217d.png",
+    "static/media/seahorse.png": "/marina-santana/marina-santana.io/static/media/seahorse.36faee7f.png",
+    "static/media/seaweed.png": "/marina-santana/marina-santana.io/static/media/seaweed.63219082.png",
+    "static/media/starfish.png": "/marina-santana/marina-santana.io/static/media/starfish.835a0cb0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99a12112.js",
+    "static/js/2.af5a29cb.chunk.js",
+    "static/js/main.de3b447b.chunk.js"
+  ]
+}
