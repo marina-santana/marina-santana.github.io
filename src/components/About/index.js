@@ -13,7 +13,7 @@ function About() {
                     <img src={imgWaves} alt="ondas" />
                 </SubTitle>
             </Title>
-            <p>Olá, eu sou a Marina, Desenvolvedora Full Stack ,  gosto de filmes e de viajar com meus amigos.</p>
+            <p>Olá, eu sou a Marina, Desenvolvedora Full Stack ,  gosto de filmes e de passear com meus amigos.</p>
         </Container>
     );
 }

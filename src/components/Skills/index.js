@@ -29,20 +29,17 @@ function Skills() {
                 </List>
                 <List>
                     <img src={imgBackend} alt="backend" />
-                    <h3>Frontend</h3>
+                    <h3>Backend</h3>
                     <ul>
-                        <li>Html</li>
-                        <li>CSS</li>
-                        <li>React</li>
+                        <li>Node</li>
+                        <li>Java</li>
                     </ul>
                 </List>
                 <List>
                     <img src={imgMobile} alt="mobile" />
-                    <h3>Frontend</h3>
+                    <h3>Mobile</h3>
                     <ul>
-                        <li>Html</li>
-                        <li>CSS</li>
-                        <li>React</li>
+                        <li>React native</li>
                     </ul>
                 </List>
             </ContainerList>

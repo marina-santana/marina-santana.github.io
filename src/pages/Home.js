@@ -6,11 +6,11 @@ import Header from '../components/Header';
 import Projects from '../components/Projects';
 import Skills from '../components/Skills';
 import SocialMedia from '../components/SocialMedia';
-import { Body } from './styles';
+import { Body, Container } from './styles';
 
 function Home() {
     return (
-        <>
+        <Container>
             <Header />
             <Body>
                 <About />
@@ -20,7 +20,7 @@ function Home() {
                 <SocialMedia />
             </Body>
             <Footer />
-        </>
+        </Container>
     );
 }
 
