@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/marina-santana/marina-santana.io/precache-manifest.d4804c36cf0c2aa20855f7fdf98ef919.js"
+  "/marina-santana/marina-santana.io/precache-manifest.fc1b98d2689d28ad2c148f7067883624.js"
 );
 
 self.addEventListener('message', (event) => {
