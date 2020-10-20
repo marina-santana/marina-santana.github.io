@@ -16,10 +16,6 @@ export const Container = styled.div`
     width: 134px;
     height: 106px;
   }
-
-  @media (max-width: 600px){
-    width: calc(100vw - 16px);
-  }
 `;
 
 export const ContainerList = styled.div`

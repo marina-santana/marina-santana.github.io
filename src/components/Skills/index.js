@@ -5,13 +5,13 @@ import imgFish from '../../assets/fish.png';
 import imgFrontend from '../../assets/frontend.png';
 import imgBackend from '../../assets/backend.png';
 import imgMobile from '../../assets/mobile.png';
-import { SubTitle, Title } from '../About/styles';
+import { SubTitle, Title, TitleImage } from '../About/styles';
 
 function Skills() {
     return (
         <Container>
             <Title>
-                <img className="fish" src={imgFish} alt="peixe" />
+                <TitleImage className="fish" src={imgFish} alt="peixe" />
                 <SubTitle>
                     <h2>Habilidades</h2>
                     <img src={imgWaves} alt="ondas" />

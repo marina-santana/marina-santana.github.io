@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container, Title, SubTitle } from './styles';
+import { Container, Title, SubTitle, TitleImage } from './styles';
 import imgWaves from '../../assets/waves.png';
 import imgSeahorse from '../../assets/seahorse.png';
 
@@ -7,7 +7,7 @@ function About() {
     return (
         <Container>
             <Title>
-                <img className="seahorse" src={imgSeahorse} alt="cavalo marinho" />
+                <TitleImage className="seahorse" src={imgSeahorse} alt="cavalo marinho" />
                 <SubTitle>
                     <h2>Sobre</h2>
                     <img src={imgWaves} alt="ondas" />

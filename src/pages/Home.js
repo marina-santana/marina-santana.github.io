@@ -6,19 +6,21 @@ import Header from '../components/Header';
 import Projects from '../components/Projects';
 import Skills from '../components/Skills';
 import SocialMedia from '../components/SocialMedia';
-import { Container } from './styles';
+import { Body } from './styles';
 
 function Home() {
     return (
-        <Container>
+        <>
             <Header />
-            <About />
-            <Formation />
-            <Skills />
-            <Projects />
-            <SocialMedia />
+            <Body>
+                <About />
+                <Formation />
+                <Skills />
+                <Projects />
+                <SocialMedia />
+            </Body>
             <Footer />
-        </Container>
+        </>
     );
 }
 

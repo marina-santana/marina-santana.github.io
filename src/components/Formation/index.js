@@ -3,13 +3,13 @@ import { Container } from './styles';
 import imgWaves from '../../assets/waves.png';
 import imgStarfish from '../../assets/starfish.png';
 import imgCircleMarker from '../../assets/circle-marker.png';
-import { SubTitle, Title } from '../About/styles';
+import { SubTitle, Title, TitleImage } from '../About/styles';
 
 function Formation() {
     return (
         <Container>
             <Title>
-                <img className="starfish" src={imgStarfish} alt="estrela do mar" />
+                <TitleImage className="starfish" src={imgStarfish} alt="estrela do mar" />
                 <SubTitle>
                     <h2>Formarção</h2>
                     <img src={imgWaves} alt="ondas" />

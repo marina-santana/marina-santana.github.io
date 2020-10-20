@@ -17,17 +17,25 @@ export const Container = styled.div`
     margin-top: 16px;
   }
 
-  @media (max-width: 600px){
-    width: calc(100vw - 16px);
-  }
+  
+ @media (max-width: 600px){
+  margin-top: 464px;
+ }
 `;
 
 export const Title = styled.div`
  display: flex;
 
  @media (max-width: 600px){
-    width: calc(100vw - 16px);
-  }
+  margin: auto;
+ }
+`;
+
+export const TitleImage = styled.img`
+ @media (max-width: 600px){
+    width: 4em !important;
+    height: 4.5em !important;
+ }
 `;
 
 export const SubTitle = styled.div`
@@ -35,6 +43,18 @@ export const SubTitle = styled.div`
     font-weight: 400;
     font-size: 3em;
     text-align: center;
+  }
+
+  @media (max-width: 600px){
+
+    img{
+      width: 90%;
+    }
+    
+
+    h2{
+      font-size: 2em;
+    }
   }
 `;
 

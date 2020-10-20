@@ -5,13 +5,13 @@ import imgOyster from '../../assets/oyster.png';
 import imgMedium from '../../assets/medium.png';
 import imgLinkedin from '../../assets/linkedin.png';
 import imgGitHub from '../../assets/github.png';
-import { SubTitle, Title } from '../About/styles';
+import { SubTitle, Title, TitleImage } from '../About/styles';
 
 function SocialMedia() {
     return (
         <Container>
             <Title>
-                <img className="oyster" src={imgOyster} alt="ostra" />
+                <TitleImage className="oyster" src={imgOyster} alt="ostra" />
                 <SubTitle>
                     <h2>Redes sociais</h2>
                     <img src={imgWaves} alt="ondas" />

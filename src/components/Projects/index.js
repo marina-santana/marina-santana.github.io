@@ -3,13 +3,13 @@ import { Container, List, ContainerList } from './styles';
 import imgWaves from '../../assets/waves.png';
 import imgSeaweed from '../../assets/seaweed.png';
 import imgFrame from '../../assets/frame.png';
-import { SubTitle, Title } from '../About/styles';
+import { SubTitle, Title, TitleImage } from '../About/styles';
 
 function Projects() {
     return (
         <Container>
             <Title>
-                <img className="seaweed" src={imgSeaweed} alt="alga" />
+                <TitleImage className="seaweed" src={imgSeaweed} alt="alga" />
                 <SubTitle>
                     <h2>Projetos</h2>
                     <img src={imgWaves} alt="ondas" />

@@ -2,7 +2,7 @@ import styled from 'styled-components';
 import imgHeader from '../../assets/header.png';
 import imgMarina from '../../assets/marina.jpg';
 
-export const Container = styled.div`
+export const Container = styled.header`
   background-image: url(${imgHeader});;
   background-size: 100%;
   margin-top: -5px;
@@ -25,8 +25,16 @@ export const Container = styled.div`
     margin-top: 8px;
   }
 
+  @media (max-width: 1000px){
+    background-size: auto;
+  }
+
   @media (max-width: 600px){
-    width: calc(100vw - 16px);
+    width: auto;
+
+    img{
+      width: 90%;
+    }
   }
 `;
 
