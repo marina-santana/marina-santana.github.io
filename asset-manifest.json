@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.js": "/marina-santana/marina-santana.github.io/static/js/main.db08f8ae.chunk.js",
-    "main.js.map": "/marina-santana/marina-santana.github.io/static/js/main.db08f8ae.chunk.js.map",
-    "runtime-main.js": "/marina-santana/marina-santana.github.io/static/js/runtime-main.3012cc22.js",
-    "runtime-main.js.map": "/marina-santana/marina-santana.github.io/static/js/runtime-main.3012cc22.js.map",
-    "static/js/2.73889f7c.chunk.js": "/marina-santana/marina-santana.github.io/static/js/2.73889f7c.chunk.js",
-    "static/js/2.73889f7c.chunk.js.map": "/marina-santana/marina-santana.github.io/static/js/2.73889f7c.chunk.js.map",
-    "index.html": "/marina-santana/marina-santana.github.io/index.html",
-    "precache-manifest.b2505c258677835968a163ca0929e109.js": "/marina-santana/marina-santana.github.io/precache-manifest.b2505c258677835968a163ca0929e109.js",
-    "service-worker.js": "/marina-santana/marina-santana.github.io/service-worker.js",
-    "static/js/2.73889f7c.chunk.js.LICENSE.txt": "/marina-santana/marina-santana.github.io/static/js/2.73889f7c.chunk.js.LICENSE.txt",
-    "static/media/fish.png": "/marina-santana/marina-santana.github.io/static/media/fish.e6ca75c5.png",
-    "static/media/footer.png": "/marina-santana/marina-santana.github.io/static/media/footer.8bd43bac.png",
-    "static/media/header.png": "/marina-santana/marina-santana.github.io/static/media/header.e3381d2d.png",
-    "static/media/marina.jpg": "/marina-santana/marina-santana.github.io/static/media/marina.81fdbd45.jpg",
-    "static/media/oyster.png": "/marina-santana/marina-santana.github.io/static/media/oyster.ac31217d.png",
-    "static/media/seahorse.png": "/marina-santana/marina-santana.github.io/static/media/seahorse.36faee7f.png",
-    "static/media/seaweed.png": "/marina-santana/marina-santana.github.io/static/media/seaweed.63219082.png",
-    "static/media/starfish.png": "/marina-santana/marina-santana.github.io/static/media/starfish.835a0cb0.png"
+    "main.js": "/portifolio/static/js/main.db08f8ae.chunk.js",
+    "main.js.map": "/portifolio/static/js/main.db08f8ae.chunk.js.map",
+    "runtime-main.js": "/portifolio/static/js/runtime-main.4d860e73.js",
+    "runtime-main.js.map": "/portifolio/static/js/runtime-main.4d860e73.js.map",
+    "static/js/2.8f2aa189.chunk.js": "/portifolio/static/js/2.8f2aa189.chunk.js",
+    "static/js/2.8f2aa189.chunk.js.map": "/portifolio/static/js/2.8f2aa189.chunk.js.map",
+    "index.html": "/portifolio/index.html",
+    "precache-manifest.a789a6349a361e56d2e2a492e78c09d2.js": "/portifolio/precache-manifest.a789a6349a361e56d2e2a492e78c09d2.js",
+    "service-worker.js": "/portifolio/service-worker.js",
+    "static/js/2.8f2aa189.chunk.js.LICENSE.txt": "/portifolio/static/js/2.8f2aa189.chunk.js.LICENSE.txt",
+    "static/media/fish.png": "/portifolio/static/media/fish.e6ca75c5.png",
+    "static/media/footer.png": "/portifolio/static/media/footer.8bd43bac.png",
+    "static/media/header.png": "/portifolio/static/media/header.e3381d2d.png",
+    "static/media/marina.jpg": "/portifolio/static/media/marina.81fdbd45.jpg",
+    "static/media/oyster.png": "/portifolio/static/media/oyster.ac31217d.png",
+    "static/media/seahorse.png": "/portifolio/static/media/seahorse.36faee7f.png",
+    "static/media/seaweed.png": "/portifolio/static/media/seaweed.63219082.png",
+    "static/media/starfish.png": "/portifolio/static/media/starfish.835a0cb0.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3012cc22.js",
-    "static/js/2.73889f7c.chunk.js",
+    "static/js/runtime-main.4d860e73.js",
+    "static/js/2.8f2aa189.chunk.js",
     "static/js/main.db08f8ae.chunk.js"
   ]
 }
