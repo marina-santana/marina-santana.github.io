@@ -22,7 +22,7 @@ function Projects() {
                 </List>
                 <List>
                     <img src={imgFrame} alt="quadro" />
-                    <a href="https://github.com/marina-santana/crud-react-js">crud-react</a>
+                    <a href="https://github.com/marina-santana/clean-architecture-nodejs">clean-architecture</a>
                 </List>
                 <List>
                     <img src={imgFrame} alt="quadro" />
