@@ -28,7 +28,7 @@ function SocialMedia() {
                 </List>
                 <List>
                     <img src={imgMedium} alt="medium" />
-                    <a href="https://medium.com/@marina_santana">@marina_santana</a>
+                    <a href="https://marina-santana.medium.com/">@marina-santana</a>
                 </List>
             </ContainerList>
         </Container>
