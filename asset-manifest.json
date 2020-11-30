@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/portifolio/static/js/main.3aed2924.chunk.js",
-    "main.js.map": "/portifolio/static/js/main.3aed2924.chunk.js.map",
+    "main.js": "/portifolio/static/js/main.68e49047.chunk.js",
+    "main.js.map": "/portifolio/static/js/main.68e49047.chunk.js.map",
     "runtime-main.js": "/portifolio/static/js/runtime-main.4d860e73.js",
     "runtime-main.js.map": "/portifolio/static/js/runtime-main.4d860e73.js.map",
     "static/js/2.8f2aa189.chunk.js": "/portifolio/static/js/2.8f2aa189.chunk.js",
     "static/js/2.8f2aa189.chunk.js.map": "/portifolio/static/js/2.8f2aa189.chunk.js.map",
     "index.html": "/portifolio/index.html",
-    "precache-manifest.befac878eb8c6c6ab1233d1ee6706153.js": "/portifolio/precache-manifest.befac878eb8c6c6ab1233d1ee6706153.js",
+    "precache-manifest.3c19208adfadc13f77a54ca44687dea5.js": "/portifolio/precache-manifest.3c19208adfadc13f77a54ca44687dea5.js",
     "service-worker.js": "/portifolio/service-worker.js",
     "static/js/2.8f2aa189.chunk.js.LICENSE.txt": "/portifolio/static/js/2.8f2aa189.chunk.js.LICENSE.txt",
     "static/media/fish.png": "/portifolio/static/media/fish.e6ca75c5.png",
     "static/media/footer.png": "/portifolio/static/media/footer.8bd43bac.png",
     "static/media/header.png": "/portifolio/static/media/header.e3381d2d.png",
-    "static/media/marina.jpg": "/portifolio/static/media/marina.81fdbd45.jpg",
+    "static/media/marina.jpg": "/portifolio/static/media/marina.8d306cee.jpg",
     "static/media/oyster.png": "/portifolio/static/media/oyster.ac31217d.png",
     "static/media/seahorse.png": "/portifolio/static/media/seahorse.36faee7f.png",
     "static/media/seaweed.png": "/portifolio/static/media/seaweed.63219082.png",
@@ -22,6 +22,6 @@
   "entrypoints": [
     "static/js/runtime-main.4d860e73.js",
     "static/js/2.8f2aa189.chunk.js",
-    "static/js/main.3aed2924.chunk.js"
+    "static/js/main.68e49047.chunk.js"
   ]
 }
