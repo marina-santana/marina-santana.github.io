@@ -23,13 +23,14 @@ export const Container = styled.div`
 `;
 
 export const ContainerList = styled.div`
-  display: flex;
-  width: 850px;
-  justify-content: space-between;
+  display: grid;
+  grid-template-columns: repeat(3, 300px);
+  max-width: 850px;
+  gap: 32px;  
   margin-top: 16px;
 
   @media (max-width: 600px){
-    flex-direction: column;
+    grid-template-columns: 1fr;
     margin-top: 0;
   }
 `;

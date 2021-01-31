@@ -28,6 +28,18 @@ function Projects() {
                     <img src={imgFrame} alt="quadro" />
                     <a href="https://github.com/marina-santana/farm-sounds">farm-sounds</a>
                 </List>
+                <List>
+                    <img src={imgFrame} alt="quadro" />
+                    <a href="https://github.com/marina-santana/scraping-python">scraping-python</a>
+                </List>
+                <List>
+                    <img src={imgFrame} alt="quadro" />
+                    <a href="https://github.com/marina-santana/periodic-table">periodic-table</a>
+                </List>
+                <List>
+                    <img src={imgFrame} alt="quadro" />
+                    <a href="https://github.com/marina-santana/nubank-home">nubank-home</a>
+                </List>
             </ContainerList>
         </Container>
     );

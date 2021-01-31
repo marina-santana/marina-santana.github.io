@@ -11,6 +11,7 @@ export const Container = styled.footer`
   flex-direction: column;
   background-repeat: no-repeat;
   align-items: center;
+  max-width: 100%;
 
   h1{
     font-weight: 600;

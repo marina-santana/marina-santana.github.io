@@ -2,7 +2,7 @@ import React from 'react';
 import { Container, List, ContainerList } from './styles';
 import imgWaves from '../../assets/waves.png';
 import imgOyster from '../../assets/oyster.png';
-import imgMedium from '../../assets/medium.png';
+import imgDev from '../../assets/dev.png';
 import imgLinkedin from '../../assets/linkedin.png';
 import imgGitHub from '../../assets/github.png';
 import { SubTitle, Title, TitleImage } from '../About/styles';
@@ -27,8 +27,8 @@ function SocialMedia() {
                     <a href="https://github.com/marina-santana">marina-santana</a>
                 </List>
                 <List>
-                    <img src={imgMedium} alt="medium" />
-                    <a href="https://marina-santana.medium.com/">@marina-santana</a>
+                    <img src={imgDev} alt="dev" />
+                    <a href="https://dev.to/marinasantana">@marinasantana</a>
                 </List>
             </ContainerList>
         </Container>
